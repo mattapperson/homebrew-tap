@@ -1,14 +1,16 @@
-# Homebrew Tap for Codegent
+# Codegent Homebrew Tap
 
 This tap provides the Codegent CLI tool.
 
 ## Installation
 
 ```bash
-brew tap mattapperson/tap
+brew tap codegent-dev/tap
 brew install codegent
 ```
 
-## Formula
+## About
 
 The `codegent` formula installs the Codegent CLI, a TypeScript monorepo for workflow orchestration with AI agents and command execution.
+
+Visit [codegent.dev](https://codegent.dev) for more information.
